@@ -1,0 +1,47 @@
+/*!
+ * Start Bootstrap - Business Frontpage (https://startbootstrap.com/template/business-frontpage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.bg-primary {
+  height: 100vh !important;
+  background-color: #fcbf49d4 !important;
+}
+
+.bg-dark {
+  background-color: rgb(245 147 84) !important;
+}
+
+.nav-link {
+  color: rgb(36, 36, 36) !important;
+  padding: 0.5rem 1.2rem !important;
+  border: 0;
+  outline: 0;
+  font-size: 16px;
+  border-radius: 320px;
+  text-shadow: 1px 1px 0 #fff;
+}
+
+.nav-link:hover {
+  box-shadow: -5px -5px 20px #fff, 5px 5px 20px #babecc;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.navbar {
+  border-radius: 0 0 25px 25px;
+  box-shadow: 4px 4px 6px #00000045;
+}
+
+.navbar-toggler {
+  outline: none !important;
+}
+
+.img-profile {
+  min-width: 20px;
+}
