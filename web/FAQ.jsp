@@ -40,7 +40,7 @@
           <dl>
             <dt>1. What is PHMS?</dt><br>
             <dd>
-                Pandemic Healthcare Management System (PHMS) is a website developed by MICA to assist Hospital Johor Bahru (HJB) in managing the COVID-19 outbreaks in Johor, Malaysia.
+                (PHMS) is a website developed by MICA to assist Hospital Johor Bahru (HJB) in managing the COVID-19 outbreaks in Johor, Malaysia.
                 It allows users to perform health self-assessment on themselves and their families. The users can also monitor their health progress
                 throughout the COVID-19 outbreak. In addition, PHMS enables Ministry of Health (MOH) to monitor users' health condition and take 
                 immediate actions in providing the treatments required.            
